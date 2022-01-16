@@ -1,6 +1,6 @@
 # Man-Utd-Fan-Satisfaction-Levels-First-19-games
 
-A vizualization of how much Manchester United fans enjoyed each game from the first half of the 21/22 Premier League season.
+A visualization of how much Manchester United fans enjoyed each game from the first half of the 21/22 Premier League season.
 
 ### Process:
 Satisfaction ratings were gauged by running a sentiment analysis on replies to Manchester United's main Twitter account (@ManUtd). After every game, Man Utd's Twitter account
